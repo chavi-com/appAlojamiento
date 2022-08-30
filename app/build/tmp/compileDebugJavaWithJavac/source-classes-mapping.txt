@@ -1,0 +1,18 @@
+com/example/appcreditosimu/registro.java
+ com.example.appcreditosimu.registro
+ com.example.appcreditosimu.registro$1
+ com.example.appcreditosimu.registro$1$1
+ com.example.appcreditosimu.registro$1$2
+ com.example.appcreditosimu.registro$2
+com/example/appcreditosimu/BuildConfig.java
+ com.example.appcreditosimu.BuildConfig
+com/example/appcreditosimu/customer.java
+ com.example.appcreditosimu.customer
+ com.example.appcreditosimu.customer$1
+ com.example.appcreditosimu.customer$1$1
+com/example/appcreditosimu/MainActivity.java
+ com.example.appcreditosimu.MainActivity
+ com.example.appcreditosimu.MainActivity$1
+ com.example.appcreditosimu.MainActivity$1$1
+ com.example.appcreditosimu.MainActivity$1$2
+ com.example.appcreditosimu.MainActivity$2

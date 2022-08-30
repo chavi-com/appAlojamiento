@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">737614744527-eaveorcid7kq0s7681fkphbol8g6h8h8.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">737614744527</string>
+    <string name="google_api_key" translatable="false">AIzaSyAJoeUEGrwoZPwbUs41LDcgMU5C3avZzX8</string>
+    <string name="google_app_id" translatable="false">1:737614744527:android:d36f95ed8172a34521e0ba</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAJoeUEGrwoZPwbUs41LDcgMU5C3avZzX8</string>
+    <string name="google_storage_bucket" translatable="false">simuladorcreditoapp.appspot.com</string>
+    <string name="project_id" translatable="false">simuladorcreditoapp</string>
+</resources>

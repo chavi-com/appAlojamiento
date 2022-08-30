@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "887764715037",
+    "project_id": "appcreditosimular",
+    "storage_bucket": "appcreditosimular.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887764715037:android:1c33c58f405d00155c68f4",
+        "android_client_info": {
+          "package_name": "com.appcreditosimular"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887764715037-6uibbb7qp69hfntfrg2ncaojk47vs57g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHr1B1c4BupAdGYlLQN4StdvcGFyCaSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887764715037-6uibbb7qp69hfntfrg2ncaojk47vs57g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887764715037:android:d241202843b90cb55c68f4",
+        "android_client_info": {
+          "package_name": "com.example.appcreditosimu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887764715037-6uibbb7qp69hfntfrg2ncaojk47vs57g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgHr1B1c4BupAdGYlLQN4StdvcGFyCaSs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887764715037-6uibbb7qp69hfntfrg2ncaojk47vs57g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
